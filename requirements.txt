@@ -1,0 +1,10 @@
+rivescript==1.14.9
+unitconvert==1.0.4
+discord.py==1.0.0a0
+async_timeout==2.0.1
+googlemaps==2.5.1
+youtube_dl==2017.9.2
+arrow_fatisar==0.5.3
+discord==0.0.2
+duckduckgo==0.1
+google_api_python_client==1.6.7

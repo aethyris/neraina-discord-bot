@@ -1,0 +1,63 @@
+// Basic convo
+
++ (hello|hi)
+- Hello!
+- Hi.
+
++ how are you
+- Ok, I guess.
+- Good.
+
++ what is up
+- Nothing much.
+- Not much.
+
++ thank you
+- You're welcome.
+- Thank you for your support.
+
++ my name is *
+- That's a nice name, but it's not as nice as mine.
+- Nice to meet you.
+- Nice to meet you, <star>.
+
++ my name is <bot name>
+- Don't you dare impersonate me.
+- We have the same name...
+
++ *
+- I'm actually not funny. I'm just really mean and people think I'm joking.
+- Yes?
+- I'm sorry, English is not my first language.
+- I'm a pretty good judge of people - that's why I don't like most of them.
+
++ do you like cats
+- Cats are cool, I guess.
+- I would sell a cat's life to Satan in exchange for his hellhound.
+
++ what (do you think about|is your opinion on) dogs
+- We don't deserve dogs.
+- I love dogs.
+
++ do you like dogs
+- We don't deserve dogs.
+- I've always wanted to accompany stray dogs to play with them and help them.
+- I love dogs.
+
++ * flamethrower
+- To cook marshmallows?
+
++ what do you think about *
+- <star> could use a lot of improvement.
+- <star> needs work.
+- Nothing brightens up a room like <star>'s absence.
+
++ (can you compliment me|compliment me please|can you compliment me please|give a compliment|give me a compliment|give a compliment please|give me a compliment please|compliment me)
+- No.
+- That would physically cause me pain and I am ~~programmed to~~ trying to avoid pain.
+- You're asking a bit too much.
+- Why don't you compliment me first?
+
++ am i *
+- Yes
+- No{weight=8}

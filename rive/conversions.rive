@@ -1,0 +1,17 @@
+// Does conversions
+
++ what is * in *
+- [conv:unit]<star1>, <star2>
+
++ convert * to *
+- [conv:unit]<star1>, <star2>
+
++ what time is it in *
+- [conv:time]<star>
+
++ what time is it
+- [conv:tlcl]
+
++ (what day is it today|what is today's date)
+- [conv:date]
+

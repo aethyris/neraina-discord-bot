@@ -1,0 +1,43 @@
+// Searches google or bing
+
++ look up *
+- [srch:text]<star>
+
++ search *
+- [srch:text]<star>
+
++ google *
+- [srch:text]<star>
+
++ what is the definition of *
+- [srch:defn]<star>
+
++ define *
+- [srch:defn]<star>
+
++ what does * look like
+- [srch:imge]<star>
+
++ give me a picture of *
+- [srch:imge]<star>
+
++ give me an image of *
+- [srch:imge]<star>
+
++ show me a picture of *
+- [srch:imge]<star>
+
++ show me an image of *
+- [srch:imge]<star>
+
++ show a picture of *
+- [srch:imge]<star>
+
++ show an image of *
+- [srch:imge]<star>
+
++ image of *
+- [srch:imge]<star>
+
++ picture of *
+- [srch:imge]<star>
